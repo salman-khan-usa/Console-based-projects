@@ -26,7 +26,7 @@ def add_expense():
     expenses.append(stored)
     print('✅ Expense added successfully')
     
-    with open('Expense-Tracker/ExpensesList.txt','a') as file:
+    with open('Expense-Tracker/ExpensesList','a') as file:
         file.write(str(stored)+ '\n')
 
 
