@@ -1,2 +1,0 @@
-Name:grace,Rollno:12322,Age:17,class:11,grade:A+
-Name:salman khan, Rollno:10291, Age:17, class:11, grade:A
